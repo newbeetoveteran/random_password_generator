@@ -1,0 +1,2 @@
+Enter the size of charecters required in password (max 10) : 6
+Generated password is: A9@kLm
